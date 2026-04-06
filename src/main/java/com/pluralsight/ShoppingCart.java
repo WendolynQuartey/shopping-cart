@@ -2,7 +2,7 @@ package com.pluralsight;
 
 public class ShoppingCart {
     public static void main(String[] args){
-        System.out.println("My Shopping List");
+        System.out.println("My Shopping List: ");
         System.out.println("Pineapple");
         System.out.println("Salmon Fillet");
         System.out.println("Granola");
